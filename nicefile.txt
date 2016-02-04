@@ -4,4 +4,4 @@ this is a nice first try
 
 last commit before pushing
 
-this is a nice file, and we will try this agin  
+this is a nice file, and we will try this again  
