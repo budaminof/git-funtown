@@ -1,3 +1,4 @@
+Avoiding merge conflicts
 hello world
 
 this is a nice first try
