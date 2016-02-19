@@ -16,3 +16,5 @@ checking out our new awesomefeature branch!
 checking out!!
 
 git add -p
+
+finishing this feature
